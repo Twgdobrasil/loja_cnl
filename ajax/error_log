@@ -1,0 +1,260 @@
+[21-Sep-2016 12:53:29 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 20
+[21-Sep-2016 12:55:34 America/New_York] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 21
+[04-Oct-2016 10:05:28 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[04-Oct-2016 10:06:46 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[10-Oct-2016 15:31:55 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[10-Oct-2016 15:32:42 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[10-Oct-2016 15:33:31 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[10-Oct-2016 15:34:30 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[10-Oct-2016 15:36:06 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[10-Oct-2016 16:01:07 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[10-Oct-2016 16:01:23 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[11-Oct-2016 09:12:55 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[11-Oct-2016 09:14:54 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[11-Oct-2016 09:15:48 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[11-Oct-2016 09:20:07 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[11-Oct-2016 09:20:52 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[11-Oct-2016 09:23:17 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[11-Oct-2016 09:32:55 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[11-Oct-2016 09:32:55 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[11-Oct-2016 09:33:00 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[11-Oct-2016 09:33:05 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[11-Oct-2016 09:33:10 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[11-Oct-2016 09:33:27 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[11-Oct-2016 09:33:29 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[11-Oct-2016 09:33:35 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[11-Oct-2016 10:22:08 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[13-Oct-2016 20:06:13 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[14-Oct-2016 08:56:33 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[14-Oct-2016 08:56:48 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[14-Oct-2016 14:12:29 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[14-Oct-2016 14:13:11 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[24-Oct-2016 10:58:34 America/New_York] PHP Warning:  mysql_connect(): Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug in /home/clicknal/public_html/loja_cnl/db/conexao.php on line 12
+[24-Oct-2016 10:58:34 America/New_York] PHP Warning:  mysql_connect(): Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug in /home/clicknal/public_html/loja_cnl/db/conexao.php on line 12
+[25-Oct-2016 17:24:08 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[06-Nov-2016 12:45:57 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[06-Nov-2016 12:47:57 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[06-Nov-2016 12:49:14 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[06-Nov-2016 12:50:37 America/New_York] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 267911172 bytes) in /home/clicknal/public_html/loja_cnl/ajax/trazProdutosListaDesejos.php on line 24
+[06-Nov-2016 13:07:35 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[06-Nov-2016 13:10:35 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[06-Nov-2016 13:13:01 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[06-Nov-2016 13:16:21 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[06-Nov-2016 13:16:33 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[06-Nov-2016 13:19:20 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[06-Nov-2016 13:28:15 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[06-Nov-2016 13:30:18 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[06-Nov-2016 13:32:05 America/New_York] PHP Warning:  Illegal string offset 'product_id' in /home/clicknal/public_html/loja_cnl/ajax/trazProdutosListaDesejos.php on line 25
+[06-Nov-2016 13:32:05 America/New_York] PHP Warning:  Illegal string offset 'product_id' in /home/clicknal/public_html/loja_cnl/ajax/trazProdutosListaDesejos.php on line 26
+[06-Nov-2016 13:32:05 America/New_York] PHP Warning:  Illegal string offset 'title' in /home/clicknal/public_html/loja_cnl/ajax/trazProdutosListaDesejos.php on line 27
+[06-Nov-2016 13:32:05 America/New_York] PHP Warning:  Illegal string offset 'sale_price' in /home/clicknal/public_html/loja_cnl/ajax/trazProdutosListaDesejos.php on line 28
+[06-Nov-2016 13:32:05 America/New_York] PHP Warning:  Illegal string offset 'product_id' in /home/clicknal/public_html/loja_cnl/ajax/trazProdutosListaDesejos.php on line 25
+[06-Nov-2016 13:32:05 America/New_York] PHP Warning:  Illegal string offset 'product_id' in /home/clicknal/public_html/loja_cnl/ajax/trazProdutosListaDesejos.php on line 26
+[06-Nov-2016 13:32:05 America/New_York] PHP Warning:  Illegal string offset 'title' in /home/clicknal/public_html/loja_cnl/ajax/trazProdutosListaDesejos.php on line 27
+[06-Nov-2016 13:32:05 America/New_York] PHP Warning:  Illegal string offset 'sale_price' in /home/clicknal/public_html/loja_cnl/ajax/trazProdutosListaDesejos.php on line 28
+[06-Nov-2016 13:32:05 America/New_York] PHP Warning:  Illegal string offset 'product_id' in /home/clicknal/public_html/loja_cnl/ajax/trazProdutosListaDesejos.php on line 25
+[07-Nov-2016 16:01:16 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/clicknal/public_html/loja_cnl/ajax/trazVendorsMapa.php on line 46
+[07-Nov-2016 16:02:16 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/clicknal/public_html/loja_cnl/ajax/trazVendorsMapa.php on line 45
+[07-Nov-2016 16:02:52 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/clicknal/public_html/loja_cnl/ajax/trazVendorsMapa.php on line 46
+[07-Nov-2016 16:03:54 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/clicknal/public_html/loja_cnl/ajax/trazVendorsMapa.php on line 29
+[07-Nov-2016 16:05:35 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/clicknal/public_html/loja_cnl/ajax/trazVendorsMapa.php on line 35
+[07-Nov-2016 16:06:12 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/clicknal/public_html/loja_cnl/ajax/trazVendorsMapa.php on line 35
+[11-Nov-2016 11:37:57 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:37:57 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:38:27 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:38:27 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:39:34 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:39:34 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:39:34 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:39:34 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:39:40 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:39:40 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:39:40 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:39:40 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:40:17 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:40:17 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:40:17 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:40:17 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:40:43 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:40:43 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:40:43 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:40:43 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:52:30 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:52:30 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:52:30 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:52:30 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:52:30 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:52:30 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:54:48 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:54:48 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:54:48 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:54:48 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:54:48 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:54:48 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:55:08 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:55:08 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:55:08 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:55:08 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:55:08 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:55:08 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:55:36 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:55:36 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:55:36 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:55:36 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:55:36 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:55:36 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:57:24 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:57:24 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:57:24 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:57:24 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:57:24 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:57:24 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:58:58 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:58:58 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:58:58 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:58:58 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 11:58:58 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 11:58:58 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 13:29:24 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 13:29:24 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 13:29:24 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 13:29:24 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[11-Nov-2016 13:29:24 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[11-Nov-2016 13:29:24 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[12-Nov-2016 07:30:02 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[12-Nov-2016 07:30:02 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[12-Nov-2016 07:30:02 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[12-Nov-2016 07:30:02 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[12-Nov-2016 07:30:02 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 52
+[12-Nov-2016 07:30:02 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 53
+[14-Nov-2016 13:18:18 America/New_York] PHP Fatal error:  Function name must be a string in /home/clicknal/public_html/loja_cnl/ajax/finalizaPedido.php on line 137
+[14-Nov-2016 13:19:17 America/New_York] PHP Fatal error:  Function name must be a string in /home/clicknal/public_html/loja_cnl/ajax/finalizaPedido.php on line 137
+[14-Nov-2016 13:22:00 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/clicknal/public_html/loja_cnl/ajax/finalizaPedido.php on line 143
+[14-Nov-2016 13:28:25 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/clicknal/public_html/loja_cnl/ajax/finalizaPedido.php on line 142
+[14-Nov-2016 13:28:25 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/clicknal/public_html/loja_cnl/ajax/finalizaPedido.php on line 142
+[16-Nov-2016 18:47:23 America/New_York] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/clicknal/public_html/loja_cnl/ajax/finalizaPedido.php on line 109
+[18-Nov-2016 13:10:00 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[18-Nov-2016 13:15:42 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[18-Nov-2016 13:18:49 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[21-Nov-2016 07:23:23 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[21-Nov-2016 07:23:32 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[21-Nov-2016 07:55:59 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[21-Nov-2016 07:56:52 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[21-Nov-2016 08:03:26 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[21-Nov-2016 14:32:16 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[21-Nov-2016 16:21:03 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[21-Nov-2016 16:54:01 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[21-Nov-2016 17:01:26 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[21-Nov-2016 17:01:33 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[21-Nov-2016 17:02:25 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[21-Nov-2016 17:05:59 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[21-Nov-2016 17:07:32 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[21-Nov-2016 17:08:18 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[21-Nov-2016 17:09:01 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[21-Nov-2016 17:10:24 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[21-Nov-2016 17:11:43 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[21-Nov-2016 17:12:17 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[21-Nov-2016 17:12:33 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 40
+[28-Nov-2016 16:51:40 America/New_York] PHP Fatal error:  Class 'SMTP' not found in /home/clicknal/public_html/loja_cnl/email/class.phpmailer.php on line 1478
+[28-Nov-2016 17:04:00 America/New_York] PHP Fatal error:  Call to a member function isSMTP() on null in /home/clicknal/public_html/loja_cnl/ajax/finalizaPedido.php on line 221
+[29-Nov-2016 18:17:30 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/clicknal/public_html/loja_cnl/ajax/avaliaProduto.php on line 19
+[29-Nov-2016 18:17:30 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/clicknal/public_html/loja_cnl/ajax/avaliaProduto.php on line 20
+[29-Nov-2016 18:17:31 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/clicknal/public_html/loja_cnl/ajax/avaliaProduto.php on line 19
+[29-Nov-2016 18:17:31 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/clicknal/public_html/loja_cnl/ajax/avaliaProduto.php on line 20
+[29-Nov-2016 18:17:31 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/clicknal/public_html/loja_cnl/ajax/avaliaProduto.php on line 19
+[29-Nov-2016 18:17:31 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/clicknal/public_html/loja_cnl/ajax/avaliaProduto.php on line 20
+[29-Nov-2016 18:17:31 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/clicknal/public_html/loja_cnl/ajax/avaliaProduto.php on line 19
+[29-Nov-2016 18:17:31 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/clicknal/public_html/loja_cnl/ajax/avaliaProduto.php on line 20
+[29-Nov-2016 18:17:32 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/clicknal/public_html/loja_cnl/ajax/avaliaProduto.php on line 19
+[29-Nov-2016 18:17:32 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/clicknal/public_html/loja_cnl/ajax/avaliaProduto.php on line 20
+[29-Nov-2016 18:18:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/clicknal/public_html/loja_cnl/ajax/avaliaProduto.php on line 19
+[29-Nov-2016 18:18:00 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/clicknal/public_html/loja_cnl/ajax/avaliaProduto.php on line 20
+[29-Nov-2016 18:19:38 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/clicknal/public_html/loja_cnl/ajax/avaliaProduto.php on line 19
+[29-Nov-2016 18:19:38 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/clicknal/public_html/loja_cnl/ajax/avaliaProduto.php on line 20
+[29-Nov-2016 18:20:04 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/clicknal/public_html/loja_cnl/ajax/avaliaProduto.php on line 19
+[29-Nov-2016 18:20:04 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/clicknal/public_html/loja_cnl/ajax/avaliaProduto.php on line 20
+[29-Nov-2016 18:20:31 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/clicknal/public_html/loja_cnl/ajax/avaliaProduto.php on line 19
+[29-Nov-2016 18:20:31 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/clicknal/public_html/loja_cnl/ajax/avaliaProduto.php on line 20
+[29-Nov-2016 18:22:06 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/clicknal/public_html/loja_cnl/ajax/avaliaProduto.php on line 20
+[30-Nov-2016 06:01:31 America/New_York] PHP Warning:  Division by zero in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 23
+[30-Nov-2016 06:06:50 America/New_York] PHP Warning:  Division by zero in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 23
+[30-Nov-2016 06:10:27 America/New_York] PHP Warning:  Division by zero in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 23
+[30-Nov-2016 06:19:36 America/New_York] PHP Warning:  Division by zero in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 23
+[30-Nov-2016 06:22:59 America/New_York] PHP Warning:  Division by zero in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 23
+[30-Nov-2016 06:23:21 America/New_York] PHP Warning:  Division by zero in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 23
+[02-Dec-2016 20:29:26 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/clicknal/public_html/loja_cnl/ajax/finalizaPedido.php on line 169
+[05-Dec-2016 13:32:46 America/New_York] PHP Warning:  Division by zero in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 23
+[05-Dec-2016 13:33:32 America/New_York] PHP Warning:  Division by zero in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 23
+[05-Dec-2016 13:35:54 America/New_York] PHP Warning:  Division by zero in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 23
+[05-Dec-2016 14:44:42 America/New_York] PHP Warning:  Division by zero in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 23
+[05-Dec-2016 14:45:28 America/New_York] PHP Warning:  Division by zero in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 23
+[05-Dec-2016 14:55:32 America/New_York] PHP Warning:  Division by zero in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 23
+[05-Dec-2016 14:56:48 America/New_York] PHP Warning:  Division by zero in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 23
+[05-Dec-2016 14:57:48 America/New_York] PHP Warning:  Division by zero in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 23
+[05-Dec-2016 14:58:52 America/New_York] PHP Warning:  Division by zero in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 23
+[05-Dec-2016 16:14:17 America/New_York] PHP Warning:  Division by zero in /home/clicknal/public_html/loja_cnl/ajax/trazDetalhesProduto.php on line 23
+[05-Dec-2016 17:24:46 America/New_York] PHP Fatal error:  Call to undefined function translate() in /home/clicknal/public_html/loja_cnl/ajax/finalizaPedido.php on line 61
+[05-Dec-2016 18:49:24 America/New_York] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/clicknal/public_html/loja_cnl/ajax/finalizaPedido.php on line 121
+[06-Dec-2016 04:34:57 America/New_York] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/clicknal/public_html/loja_cnl/ajax/finalizaPedido.php on line 121
+[14-Dec-2016 17:55:26 America/New_York] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/clicknal/public_html/loja_cnl/ajax/finalizaPedido.php on line 126
+[16-Dec-2016 07:20:25 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:21:15 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:21:51 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:22:32 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:23:48 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:23:58 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:24:11 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:32:56 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:34:38 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:34:59 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:35:09 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:35:13 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:35:35 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:35:38 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:35:41 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:42:03 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:43:27 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:44:12 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:44:12 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:44:18 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:44:18 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:47:20 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:47:20 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:49:30 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:49:30 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:53:17 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:53:17 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:53:29 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 07:53:29 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 08:02:36 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 08:02:36 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 15:04:56 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 15:04:56 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 15:04:56 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 15:10:22 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 15:10:22 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 15:10:22 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 15:13:28 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 15:13:28 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 15:13:28 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 15:13:28 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 16:24:27 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[16-Dec-2016 16:24:27 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[19-Dec-2016 05:25:05 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[19-Dec-2016 05:25:17 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[19-Dec-2016 06:00:51 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 45
+[19-Dec-2016 06:12:59 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 46
+[19-Dec-2016 06:13:54 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 46
+[19-Dec-2016 06:14:25 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/clicknal/public_html/loja_cnl/ajax/trazHistoricoPedidos.php on line 48
+[02-Feb-2017 17:00:54 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[02-Feb-2017 17:01:04 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[02-Feb-2017 17:01:36 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[02-Feb-2017 17:02:58 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[02-Feb-2017 17:07:50 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[02-Feb-2017 17:11:59 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[02-Feb-2017 17:12:40 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[02-Feb-2017 17:13:54 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[02-Feb-2017 17:16:07 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[06-Feb-2017 06:21:42 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[06-Feb-2017 06:22:12 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
+[06-Feb-2017 06:22:13 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/clicknal/public_html/loja_cnl/db/funcoes.php on line 8
